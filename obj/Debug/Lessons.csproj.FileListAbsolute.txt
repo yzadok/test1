@@ -1,0 +1,7 @@
+C:\Users\yzado\source\repos\Lessons\obj\Debug\Lessons.csprojAssemblyReference.cache
+C:\Users\yzado\source\repos\Lessons\obj\Debug\Lessons.csproj.CoreCompileInputs.cache
+C:\Users\yzado\source\repos\Lessons\bin\Debug\Lessons.exe.config
+C:\Users\yzado\source\repos\Lessons\bin\Debug\Lessons.exe
+C:\Users\yzado\source\repos\Lessons\bin\Debug\Lessons.pdb
+C:\Users\yzado\source\repos\Lessons\obj\Debug\Lessons.exe
+C:\Users\yzado\source\repos\Lessons\obj\Debug\Lessons.pdb
